@@ -1,2 +1,2 @@
 # Machine-Learning-Linear-Regression
-Using Linear Regression on the Boston housing dataset to conduct an Exploratory Data Analysis and find the accuracy by testing the Mean Square Error
+Conducting Linear Regression on the Boston housing dataset along with Exploratory Data Analysis and finally finding the accuracy of the model by testing the Mean Square Error
